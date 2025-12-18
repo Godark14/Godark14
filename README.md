@@ -28,11 +28,19 @@
 
 > Visual representation of my daily grind 🔥
 
-### Flutter
-<svg width="100%" height="10">
-  <rect width="100%" height="10" fill="#1f2937"/>
-  <rect width="80%" height="10" fill="#8b5cf6"/>
-</svg>
+### 📱 Mobile
+- **Flutter**      ▰▰▰▰▰▰▰▰▱▱
+- **Kotlin**       ▰▰▰▰▰▰▰▱▱▱
+
+### 🌐 Front-end
+- **Vue.js**       ▰▰▰▰▰▰▰▰▱▱
+- **Tailwind CSS** ▰▰▰▰▰▰▰▰▰▱
+- **Vite**         ▰▰▰▰▰▰▰▱▱▱
+
+### ⚙️ Backend
+- **Node.js**      ▰▰▰▰▰▰▰▰▱▱
+- **Express.js**   ▰▰▰▰▰▰▰▱▱▱
+
 
 ---
 
