@@ -55,8 +55,8 @@ Express.js  ██████████████░░░░░░ 70%
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godar14k&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=godar14k&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Godar14k&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Godar14k&theme=tokyonight" height="165" />
 </p>
 
 ---
