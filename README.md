@@ -19,7 +19,7 @@
 ### Languages & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,vue,tailwind,js,nodejs,express,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,vue,tailwind,js,nodejs,express,html,css,dart" />
 </p>
 
 ---
@@ -28,50 +28,12 @@
 
 > Visual representation of my daily grind 🔥
 
-### 📱 Mobile Development
+### Flutter
+<svg width="100%" height="10">
+  <rect width="100%" height="10" fill="#1f2937"/>
+  <rect width="80%" height="10" fill="#8b5cf6"/>
+</svg>
 
-**Flutter**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#8b5cf6;width:80%;height:100%;border-radius:6px"></div>
-</div>
-
-**Kotlin**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#3b82f6;width:70%;height:100%;border-radius:6px"></div>
-</div>
-
----
-
-### 🌐 Web Front-end
-
-**Vue.js**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#22c55e;width:75%;height:100%;border-radius:6px"></div>
-</div>
-
-**Tailwind CSS**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#06b6d4;width:80%;height:100%;border-radius:6px"></div>
-</div>
-
-**Vite**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#f97316;width:70%;height:100%;border-radius:6px"></div>
-</div>
-
----
-
-### ⚙️ Backend
-
-**Node.js**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#ef4444;width:75%;height:100%;border-radius:6px"></div>
-</div>
-
-**Express.js**
-<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
-  <div style="background:#eab308;width:70%;height:100%;border-radius:6px"></div>
-</div>
 ---
 
 ## 📊 GitHub Stats
