@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>Hi 👋, I'm Godwin</h1>
-<h3>Full-Stack Developer • Into the Code 👨🏾‍💻</h3>
+<h3>Mid-level Full-Stack Developer • Into the Code 👨🏾‍💻</h3>
 
 ---
 
