@@ -30,26 +30,48 @@
 
 ### 📱 Mobile Development
 
-```text
-Flutter     ████████████████░░░░ 80%
-Kotlin      ██████████████░░░░░░ 70%
-```
+**Flutter**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#8b5cf6;width:80%;height:100%;border-radius:6px"></div>
+</div>
 
-### 🌐 Web Front‑end
+**Kotlin**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#3b82f6;width:70%;height:100%;border-radius:6px"></div>
+</div>
 
-```text
-Vue.js      ███████████████░░░░░ 75%
-Tailwind    ████████████████░░░░ 80%
-Vite        ██████████████░░░░░░ 70%
-```
+---
+
+### 🌐 Web Front-end
+
+**Vue.js**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#22c55e;width:75%;height:100%;border-radius:6px"></div>
+</div>
+
+**Tailwind CSS**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#06b6d4;width:80%;height:100%;border-radius:6px"></div>
+</div>
+
+**Vite**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#f97316;width:70%;height:100%;border-radius:6px"></div>
+</div>
+
+---
 
 ### ⚙️ Backend
 
-```text
-Node.js     ███████████████░░░░░ 75%
-Express.js  ██████████████░░░░░░ 70%
-```
+**Node.js**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#ef4444;width:75%;height:100%;border-radius:6px"></div>
+</div>
 
+**Express.js**
+<div style="background:#1f2937;border-radius:6px;height:10px;width:100%">
+  <div style="background:#eab308;width:70%;height:100%;border-radius:6px"></div>
+</div>
 ---
 
 ## 📊 GitHub Stats
