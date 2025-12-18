@@ -1,4 +1,4 @@
----
+`md
 
 👨🏾‍💻 Godwin — Full‑Stack Developer
 intothecode
@@ -23,24 +23,4 @@ I value minimalist design, performance, and smooth user experiences.
 🧩 Backend
 !Node.js  
 !Express.js
-
----
-
-
-
-`md
-
-⚡ Skills Progress
-
-| Skill | Loading |
-|-------|---------|
-| Flutter | !loading |
-| Kotlin | !loading |
-| Vue.js | !loading |
-| Vite | !loading |
-| TailwindCSS | !loading |
-| Node.js | !loading |
-| Express.js | !loading |
 `
-
----
