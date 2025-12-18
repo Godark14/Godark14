@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm Godark</h1>
+<h1>Hi 👋, I'm Godwin</h1>
 <h3>Full-Stack Developer • Into the Code 👨🏾‍💻</h3>
 
 ---
@@ -26,50 +26,52 @@
 
 <h2>⚡ Skills</h2>
 
-<h3>📱 Mobile</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <b>Flutter</b><br/>
+      ▰▰▰▰▰▰▰▰▱▱
+    </td>
+    <td align="center" width="250">
+      <b>Kotlin</b><br/>
+      ▰▰▰▰▰▰▰▱▱▱
+    </td>
+  </tr>
 
-<p>
-<b>Flutter</b><br/>
-▰▰▰▰▰▰▰▰▱▱
-</p>
+  <tr>
+    <td align="center">
+      <b>Vue.js</b><br/>
+      ▰▰▰▰▰▰▰▰▱▱
+    </td>
+    <td align="center">
+      <b>Tailwind CSS</b><br/>
+      ▰▰▰▰▰▰▰▰▰▱
+    </td>
+  </tr>
 
-<p>
-<b>Kotlin</b><br/>
-▰▰▰▰▰▰▰▱▱▱
-</p>
+  <tr>
+    <td align="center">
+      <b>Vite</b><br/>
+      ▰▰▰▰▰▰▰▱▱▱
+    </td>
+    <td align="center">
+      <b>Node.js</b><br/>
+      ▰▰▰▰▰▰▰▰▱▱
+    </td>
+  </tr>
 
----
+  <tr>
+    <td align="center">
+      <b>Express.js</b><br/>
+      ▰▰▰▰▰▰▰▱▱▱
+    </td>
+    <td align="center">
+      <b>Javascript</b><br/>
+      ▰▰▰▰▰▰▰▰▱▱
+    </td>
+  </tr>
+</table>
 
-<h3>🌐 Front-end</h3>
-
-<p>
-<b>Vue.js</b><br/>
-▰▰▰▰▰▰▰▰▱▱
-</p>
-
-<p>
-<b>Tailwind CSS</b><br/>
-▰▰▰▰▰▰▰▰▰▱
-</p>
-
-<p>
-<b>Vite</b><br/>
-▰▰▰▰▰▰▰▱▱▱
-</p>
-
----
-
-<h3>⚙️ Backend</h3>
-
-<p>
-<b>Node.js</b><br/>
-▰▰▰▰▰▰▰▰▱▱
-</p>
-
-<p>
-<b>Express.js</b><br/>
-▰▰▰▰▰▰▰▱▱▱
-</p>
 
 ---
 
