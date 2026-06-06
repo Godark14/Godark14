@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>Hi , I'm Godwin</h1>
-<h3>Mid-level Full-Stack Developer • Into the Code 👨🏾‍💻</h3>
+<h3>Mid-level Full-Stack Developer • Into the Code </h3>
 
 ---
 
@@ -18,9 +18,9 @@
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2> Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,vue,tailwind,js,nodejs,express,html,css,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,compose,vue,tailwind,js,nodejs,express,html,css,dart" />
 
 ---
 
