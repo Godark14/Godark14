@@ -2,18 +2,18 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm Godwin</h1>
+<h1>Hi , I'm Godwin</h1>
 <h3>Mid-level Full-Stack Developer • Into the Code 👨🏾‍💻</h3>
 
 ---
 
-<h2>🚀 About Me</h2>
+<h2> About Me</h2>
 
 <p>
-📱 <b>Mobile Front-end Developer</b> — Flutter, Kotlin<br/>
-🌐 <b>Web Front-end Developer</b> — Vue.js, Vite, Tailwind CSS<br/>
-⚙️ <b>Backend Developer</b> — Node.js, Express.js<br/>
-💡 Passionate about building clean, scalable, and impactful applications
+ <b>Mobile Front-end Developer</b> — Flutter, Kotlin<br/>
+ <b>Web Front-end Developer</b> — Vue.js, Vite, Tailwind CSS<br/>
+ <b>Backend Developer</b> — Node.js, Express.js<br/>
+ Passionate about building clean, scalable, and impactful applications
 </p>
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-<h2>⚡ Skills</h2>
+<h2> Skills</h2>
 
 <table align="center">
   <tr>
@@ -75,7 +75,7 @@
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Godark14&show_icons=true&theme=tokyonight" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Godark14&theme=tokyonight" />
@@ -88,6 +88,6 @@
 
 ---
 
-⭐ <i>Feel free to explore my repositories and connect!</i>
+ <i>Feel free to explore my repositories and connect!</i>
 
 </div>
