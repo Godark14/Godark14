@@ -20,7 +20,7 @@
 
 <h2> Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,compose,vue,tailwind,js,nodejs,express,html,css,dart" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,vue,tailwind,js,nodejs,express,html,css,dart" />
 
 ---
 
