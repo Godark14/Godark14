@@ -74,7 +74,7 @@
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Godark14&theme=tokyonight" />
 
 <h2>🧠 Motto</h2>
-<p><b>IntoTheCode</b> — learning, building, and pushing limits every day.</p>
----
+<p><b>IntoTheCode</b> — Building intelligent solutions that automate tomorrow</p>
+
  <i>Feel free to explore my repositories and connect!</i>
 </div>
