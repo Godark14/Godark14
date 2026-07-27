@@ -13,7 +13,7 @@
 </p>
 
 <h2> Tech Stack</h2>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,java,androidstudio,vue,tailwind,n8n" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,kotlin,dart,java,androidstudio,vue,tailwind,n8n" />
 
 <h2> Skills</h2>
 <table align="center">
