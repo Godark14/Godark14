@@ -62,6 +62,10 @@
       <b>n8n (AI Automation)</b><br/>
       ▰▰▰▰▰▰▰▱▱▱
     </td>
+   <td align="center">
+      <b>Prompt & Context Engineering</b><br/>
+      ▰▰▰▰▰▰▰▱▱▱
+    </td>
   </tr>
 </table>
 ---
