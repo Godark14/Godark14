@@ -6,7 +6,7 @@
 <h2> About Me</h2>
 <p>
  <b>Android Developer</b> — Kotlin, Jetpack Compose<br/>
- <b>Mobile Cross‑platform Developer</b> — Flutter<br/>
+ <b>Mobile Cross‑platform Developer</b> — Flutter, Kotlin Multiplatform, Compose Multiplatform<br/>
  <b>Web Front-end (secondary)</b> — Vue.js, Tailwind CSS<br/>
  <b>AI Automation Engineer</b> — Building automated workflows with n8n<br/>
  Passionate about building clean, scalable, and impactful mobile applications
