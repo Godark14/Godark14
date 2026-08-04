@@ -1,5 +1,13 @@
 <!-- GitHub Profile README -->
 <div align="center">
+ 
+ <p>
+  <img src="https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Kotlin-Expert-orange?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/AI-Automation-purple?style=for-the-badge&logo=robotframework" />
+</p>
+
 <h1>Hi , I'm Godwin</h1>
 <h3>Android & Mobile Developer • AI Automation Engineer </h3>
 
