@@ -84,5 +84,5 @@
 <h2> Motto</h2>
 <p><b>IntoTheCode</b> — Building intelligent solutions that automate tomorrow</p>
 
- <i>Feel free to explore my repositories and connect!</i>
+ <i>Feel free to explore my repositories and connect!!</i>
 </div>
